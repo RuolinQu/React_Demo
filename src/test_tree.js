@@ -14,13 +14,15 @@ class TestTree extends Component {
             { id: 12, name: 'Mobility', parentId: 5 },
             { id: 13, name: 'Marketing', parentId: 5 },
             { id: 5, name: 'Technology', parentId: 2 },
-            { id: 14, name: 'Hardware&Veehicle', parentId: 7 },
+            { id: 14, name: 'Hardware', parentId: 7 },
             { id: 6, name: 'Solution', parentId: 3 },
             { id: 7, name: 'Uber ATG', parentId: 2 },
             { id: 8, name: 'Business', parentId: 4 },
             { id: 11, name: 'Platform&Growth', parentId: 2 },
-            { id: 15, name: 'Platform&Growth', parentId: 11 },
-            { id: 16, name: 'Platform&Growth', parentId: 11 },
+            { id: 15, name: 'Platform', parentId: 11 },
+            { id: 16, name: 'Growth', parentId: 11 },
+            { id: 17, name: 'Infra', parentId: 12 },
+            { id: 18, name: 'Engineering', parentId: 13 },
         ]
     }
 
