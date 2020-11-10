@@ -1,8 +1,9 @@
 .wrapper{
-    height: 100vh;
     margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
+    height: 98vh;
 }
 
 main{
@@ -91,8 +92,8 @@ li.cur > ul{
 }
 
 p:hover{
-    background: #dbebff;
-    border-radius: 5px;
+    background: skyblue;
+
 }
 p:focus{
     background: #1f84ff;
